@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+head {
+align: center;
+}
+ 
+img {
+  align:center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+figcaption {
+  font-size: smaller;
+  align:center;
+
+}
+featured-property p {
+  width: 800px;
+  align:center;
+}
+
+
